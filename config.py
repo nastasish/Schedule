@@ -3,9 +3,9 @@
 db_connect = {
     'database':'postgres',
     'user':'postgres',
-    'password':'nastya2002',
+    'password':'',
     'host':'127.0.0.1',
-    'port':'5432'
+    'port':''
 }
 
 buttons = {
